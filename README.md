@@ -4,4 +4,4 @@ Automated keywords extractor using Python
 2. Integrate it into the Power BI (any Python supported BI) and process the extraction 
 To perform the automated keywords extraction.
 
-Post which the data can be used for Classification, Clustering and etc., tasks as per the Business Requirement.
+Post key word extraction, the data can be used for Classification, Clustering and etc., as per the Business Requirement.
